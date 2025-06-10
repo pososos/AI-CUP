@@ -1,3 +1,3 @@
 # AI-CUP醫病語音敏感個人資料辨識競賽報告用
 檔案說明:
-附件檔案AICUP2025_final.ipynb在colab上就能直接運行完成，我整個過程也都只在colab上進行
+附件檔案AICUP2025_final.ipynb，整個訓練到推論的流程在colab上就能直接運行完成，我整個過程也都只在colab上進行
